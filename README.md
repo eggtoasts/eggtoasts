@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>☕ Hi, I'm Sam! <img width="39" height="38" src="https://github.com/user-attachments/assets/0258a604-c353-49a4-a06e-56c0296996ff" alt="wave" style="vertical-align: middle;" /></h1>
+  <h1>☕ Hi, I'm Sam! <img width="39" height="38" src="Vector 8.png" alt="wave" style="vertical-align: middle;" /></h1>
 </div>
 
 
@@ -10,11 +10,11 @@
 <table>
 <tr>
   <td valign="top">
-<h2>About Me <img width="20" height="20" src="https://github.com/user-attachments/assets/0258a604-c353-49a4-a06e-56c0296996ff" alt="wave" style="vertical-align: middle;" /></h2>
+<h2><img width="20" height="20"  src="Vector 7.png" alt="wave" style="vertical-align: middle;" /> About Me <img width="21" height="21"  src="Vector 6.png" alt="wave" style="vertical-align: middle;" /></h2>
     
 <p>I'm currently a CS student @ University of Central Florida, currently interning at Limbitless Solutions. Feel free to hit me up if you want to work together, or just talk about tech! Next to me are my 2 cats, Sirius and Luna.</p>
 
-<h2>Languages <img width="20" height="20" src="https://github.com/user-attachments/assets/0258a604-c353-49a4-a06e-56c0296996ff" alt="wave" style="vertical-align: middle;" /></h2>
+<h3>Languages 🛠️</h3>
 <p>
       <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -34,7 +34,7 @@
 </td>
 <td  align="center" valign="top">
 
-<img width="400" height="500" alt="cats" src="https://github.com/user-attachments/assets/be70b06e-9c22-4b5e-901b-26bd00c2a291" />
+<img width="600" height="800" alt="cats" src="https://github.com/user-attachments/assets/be70b06e-9c22-4b5e-901b-26bd00c2a291" />
 </td>
 
 </tr>
