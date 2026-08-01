@@ -18,7 +18,7 @@
 
 <h2 >tech i've been using</h2>
 
-<span><img width="150" alt="cats" src="https://img1.picmix.com/output/stamp/normal/0/7/4/3/2613470_313c5.gif" style="vertical-align: middle;" align="left"  /></span> 
+<span><img width="140" alt="cats" src="https://img1.picmix.com/output/stamp/normal/0/7/4/3/2613470_313c5.gif" style="vertical-align: middle;" align="left"  /></span> 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
