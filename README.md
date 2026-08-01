@@ -1,22 +1,18 @@
+<h1>hi, i'm sam <img width="30" height="30" src="Vector 8.png" alt="wave" style="vertical-align: middle;" /></h1>
 
 
-
-
-  <h1>hi, i'm sam <img width="30" height="30" src="Vector 8.png" alt="wave" style="vertical-align: middle;" /></h1>
-
-
-<h2><img width="20" height="20"  src="Vector 7.png" alt="wave" style="vertical-align: middle;" /> about me <img width="21" height="21"  src="Vector 6.png" alt="wave" style="vertical-align: middle;" /></h2>
+### <img width="20" height="20"  src="Vector 7.png" alt="wave" style="vertical-align: middle;" /> about me <img width="21" height="21"  src="Vector 6.png" alt="wave" style="vertical-align: middle;" />
     
 <span>i'm currently a CS student @ University of Central Florida, currently interning <span><img width="150" alt="cats" src="https://github.com/user-attachments/assets/be70b06e-9c22-4b5e-901b-26bd00c2a291" style="vertical-align: middle;" align="right"  /></span>  at <a href="https://limbitless-solutions.org/">Limbitless Solutions</a>. feel free to hit me up if you want to work together, or just talk about tech! next to me are my 2 cats, sirius and luna.  </span>
 
-<b>current leader positions</b>
+### current leader positions
 <ul>
 <li>Workshop Director @ Girls Who Code</li>
 <li>Web Developer @ Knights Records</li>
 </ul>
 
 
-<h2 >tech i've been using</h2>
+<h2 >tech i've been using </h2>
 
 <span><img width="140" alt="cats" src="https://img1.picmix.com/output/stamp/normal/0/7/4/3/2613470_313c5.gif" style="vertical-align: middle;" align="left"  /></span> 
 
