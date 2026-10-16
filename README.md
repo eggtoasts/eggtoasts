@@ -3,13 +3,18 @@
 
 ### <img width="20" height="20"  src="Vector 7.png" alt="wave" style="vertical-align: middle;" /> about me <img width="21" height="21"  src="Vector 6.png" alt="wave" style="vertical-align: middle;" />
     
-<span>i'm currently a CS student @ University of Central Florida, currently interning <span><img width="150" alt="cats" src="https://github.com/user-attachments/assets/be70b06e-9c22-4b5e-901b-26bd00c2a291" style="vertical-align: middle;" align="right"  /></span>  at <a href="https://limbitless-solutions.org/">Limbitless Solutions</a>. feel free to hit me up if you want to work together, or just talk about tech! next to me are my 2 cats, sirius and luna.  </span>
+<span>i'm currently a CS student @ University of Central Florida, currently interning <span><img width="150" alt="cats" src="https://github.com/user-attachments/assets/be70b06e-9c22-4b5e-901b-26bd00c2a291" style="vertical-align: middle;" align="right"  /></span>  at <a href="https://seminolesheriff.org/">Seminole County Sheriff’s Office</a> and incoming at <a href="https://techrangers.cdl.ucf.edu/">CDL Techrangers</a>. feel free to hit me up if you want to work together, or just talk about tech! next to me are my 2 cats, sirius and luna.  </span>
 
 ### current leader positions
 <ul>
 <li>Vice President @ Knights Design Interactive</li>
 <li>Workshop Director @ Girls Who Code</li>
 <li>Web Developer @ Knights Records</li>
+</ul>
+
+### prev
+<ul>
+<li><a href="https://limbitless-solutions.org/">Limbitless Solutions</a></li>
 </ul>
 
 
