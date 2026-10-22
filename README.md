@@ -7,7 +7,7 @@
 
 ### current leader positions
 <ul>
-<li>Vice President @ Knights Design Interactive</li>
+<li>Vice President & Co-Founder @ Knights Design Interactive</li>
 <li>Workshop Director @ Girls Who Code</li>
 <li>Web Developer @ Knights Records</li>
 </ul>
